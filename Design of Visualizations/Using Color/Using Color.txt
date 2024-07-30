@@ -2,9 +2,9 @@ Color can be used to encode an additional variable or split data into groups.
 
 There are some issues that need to be considered.
 
-In the GDP example (See Image), adding color to the plot provided information about the geographic regions of the data points.
+In the GDP example (See GDP example Image), adding color to the plot provided information about the geographic regions of the data points.
 
-In the bad example (See image), neither the colros nor the legend provided any useful additional information to the graph.
+In the bad example (See bad use of colors image), neither the colros nor the legend provided any useful additional information to the graph.
 
 
 Before adding color to a visualization, it should be determined if color is needed in the first place. If the visualization can be done perfectly in black and 
