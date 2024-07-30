@@ -1,1 +1,1 @@
-# Data-VIsualization-in-Data-Analysis
+# Data-Visualization-in-Data-Analysis
